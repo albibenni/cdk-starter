@@ -1,5 +1,5 @@
 {
-  "app": "pnpm px ts-node --prefer-ts-exts bin/cdk-starter.ts",
+  "app": "pnpm ts-node --prefer-ts-exts bin/cdk-starter.ts",
   "watch": {
     "include": ["**"],
     "exclude": [
